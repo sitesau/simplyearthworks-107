@@ -1,0 +1,22 @@
+{
+  "wheel_id": 780,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-107",
+  "project": "earthmoving-adelaide-what-to-expect-4e3f06a3776e5b150cba0bcd39f",
+  "parent_t1_ref": "simplyearthworks-153",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide what to expect",
+  "intended_url": "https://sitesau.github.io/simplyearthworks-107/",
+  "tier": "T2",
+  "writeback_nonce": "2f4165369bea1bc2",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/earthmoving-adelaide-pros-and-cons-e21631a18c26fbadb522eeecba6f/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
